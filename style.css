@@ -12,6 +12,12 @@ body {
     margin: 10% 0;
 }
 
+@media (max-width: 767px) {
+    .game {
+      margin: 35% 0;
+    }
+  }
+  
 .game h1 {
     color: #cbd5e0;
     text-align: center;
